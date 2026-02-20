@@ -1,0 +1,18 @@
+global_paths:
+  model: D:/PyProjects/car-parking-system/yolo11n.pt
+streets:
+  Main Street:
+    video: D:/PyProjects/car-parking-system/testerpack/parking_space.mp4
+    roi: D:/PyProjects/car-parking-system/Space_ROIs.pkl
+    roi_reference_image: D:/PyProjects/car-parking-system/testerpack/ROI_Reference.png
+  Visual Street:
+    video: D:/PyProjects/car-parking-system/trainer1.mp4
+    roi: D:/PyProjects/car-parking-system/tester1.pkl
+    roi_reference_image: D:/PyProjects/car-parking-system/testerpack/tester1.png
+    model: D:/PyProjects/car-parking-system/runs/detect/train5/weights/best.pt
+    detection:
+      car_class_id: 3
+      confidence_threshold: 0.25
+global_detection:
+  car_class_id: 2
+  confidence_threshold: 0.35
