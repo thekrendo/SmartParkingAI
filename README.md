@@ -52,7 +52,7 @@ SmartParkingAI is a desktop application for automated real-time monitoring and m
 
 ## 📄 License & Restrictions
 
-**© 2024-2026 Dmytro Fraire (thekrendo). All Rights Reserved.**
+**© 2024-2026 Dmytro Chornobryvets (thekrendo). All Rights Reserved.**
 
 This repository and its contents are provided strictly for **portfolio demonstration and educational viewing purposes only**. 
 
