@@ -50,6 +50,15 @@ SmartParkingAI is a desktop application for automated real-time monitoring and m
 
 *(To be added)*
 
-## 📄 License
+## 📄 License & Restrictions
 
-This project is open-source and available for educational and portfolio purposes.
+**© 2024-2026 Dmytro Fraire (thekrendo). All Rights Reserved.**
+
+This repository and its contents are provided strictly for **portfolio demonstration and educational viewing purposes only**. 
+
+You are **NOT** permitted to:
+- Copy, clone, or distribute this code.
+- Use it for any commercial or non-commercial projects.
+- Modify, adapt, or create derivative works from it.
+
+Any unauthorized use, reproduction, or distribution of this software, its algorithms, or UI design is strictly prohibited.
